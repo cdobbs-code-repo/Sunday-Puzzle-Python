@@ -37,7 +37,7 @@ def get_binary_threes(leng):
 dictio = enchant.Dict("en_US")
 alph = "abcdefghijklmnopqrstuvwxyza"
 nums = "0123456789"
-file = open("C:/Users/cdobb/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/enchant/data/mingw32/share/enchant/hunspell/en_US.dic")
+file = open("C:/Users/xxxx/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/enchant/data/mingw32/share/enchant/hunspell/en_US.dic")
 #---------------------------------
 
 for line in file:
