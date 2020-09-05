@@ -1,7 +1,7 @@
 The problem for this week was as follows:
 
-Name a person with a certain kind of disorder. 
-Drop the first two letters and the last letter of the word, and you'll name a country. 
+Name a person with a certain kind of disorder.
+Drop the first two letters and the last letter of the word, and you'll name a country.
 What is it?
 
 The solution was to
