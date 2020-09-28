@@ -1,0 +1,1 @@
+This week's challenge comes from listener Sandy Weisz, of Chicago. Think of a place on earth with a four-word name. Take the third word. Advance three of its letters to the next letter of the alphabet (so A would become B, B would be come C, etc.). You'll get the fourth word in the name. What place is this?
