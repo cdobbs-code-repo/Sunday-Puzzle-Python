@@ -1,0 +1,1 @@
+This challenge comes from listener Ben Austin, of Dobbs Ferry, N.Y. It's not too hard. Name a major world city with a population in the millions. Take one letter in its name and move it two spots earlier in the alphabet. Reading backward, you now have the name of a major restaurant chain. What is it?
