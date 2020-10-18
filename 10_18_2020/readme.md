@@ -1,0 +1,1 @@
+This week's challenge comes from listener Michael Schwartz of Florence, Ore. Name a world capital. Change one letter in it to D-Y. The result will be two words, one after the other. The first word names somebody you like to be around. The second word names somebody you don't like to be around. What city is it?
