@@ -1,0 +1,1 @@
+From Ed Pegg Jr. of Mathpuzzle.com: "Nonclassical analysis" contains eight different letters. Two of them occur once, two of them occur twice, two of them occur three times, and two of them occur four times each. Which sports team's name has this same property?
