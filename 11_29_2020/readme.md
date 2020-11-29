@@ -1,0 +1,1 @@
+This week's challenge comes from listener Wesley Davis of Black Mountain, N.C., and when you get the answer it will make you smile. Name an animal and spell it backward. Now name a variety of meat and insert it inside the animal's name that you've spelled backward. A common word will be revealed. What is it?
