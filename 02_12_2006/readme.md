@@ -1,0 +1,1 @@
+Take the word "lore." If you insert the letter pair "ic" twice, you get "licorice." Now take the word "horn." Add an identical letter pair three times to this word, to get a familiar two-word phrase. The phrase names something good puzzle solvers have. What is it?
