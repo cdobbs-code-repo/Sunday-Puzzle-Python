@@ -1,4 +1,8 @@
 import enchant
+import time
+
+# program start time
+start_time = time.time()
 
 # instantiate dictionary
 mydict = enchant.Dict("en-US")
@@ -60,7 +64,7 @@ for a in sym_letters:
                     if is_reflective_word(temp3):
                         if mydict.check(temp3):
                             print(temp3)
-print("attempt TWO complete\n")
+print("Program solve time: " + str(time.time() - start_time)[:4] + " seconds\n")
 
 # Attempt number 3: just try all letters
 
