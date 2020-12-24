@@ -1,6 +1,6 @@
 # Sunday-Puzzle-Python
 These are various scripts I wrote and write to solve weekly word puzzles for Will Shortz's Sunday Puzzle.
-Solving these puzzles serves the purpose of allowing me to try and gradually improve Python scripting by tyring new libraries, organizing my code better, and adding better comments (sometimes- noting this is just for practice).
+Solving these puzzles serves the purpose of allowing me to try and gradually improve Python scripting by trying new libraries, organizing my code better, and adding better comments (sometimes- noting this is just for practice).
 ## General Guide
 ### 05_06_2018
 dictionary check
