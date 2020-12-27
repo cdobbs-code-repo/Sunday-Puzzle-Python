@@ -1,33 +1,35 @@
 # Sunday-Puzzle-Python
-These are various scripts I write to solve weekly word puzzles for Will Shortz's Sunday Puzzle. I enjoy finding ways to let my computer do all the hard work.
+These are various scripts I wrote and write to solve weekly word puzzles for Will Shortz's Sunday Puzzle.
+Solving these puzzles serves the purpose of allowing me to try and gradually improve Python scripting by trying new libraries, organizing my code better, and adding better comments (sometimes- noting this is just for practice).
 ## General Guide
 ### 05_06_2018
-just dictionary text document iteration
+dictionary check
 ### 06_28_2020_NLTK_hypernyms
-using hypernyms with **NLTK** to categorize words
+hypernyms with **NLTK** (to categorize words)
 ### 07_14_2019
-just collecting country capital list and then puzzle solving
+country capitals list
 ### 07_28_2019
-simple **enchant** library usage
+**enchant** library
 ### 08_14_2016
-trickier puzzle solving method than usual
+-------[TO BE WRITTEN]------------
 ### 08_16_2020
-simple puzzle solver using two lists stored in text files
+two lists stored in text files
 ### 08_23_2020
-dictionary text document iteration, a tricky solving method function
+dictionary check
 ### 09_04_2016
-just dictionary text document iteration
+just dictionary check
 ### 09_27_2020
-just dictionary text document iteration + a separate list of restaurants checked
+just dictionary check + restaurants list check
 ### 10_04_2020
 used libraries **cmudict** (for syllable checking) and **PyDictionary** instead of **enchant** (for definition checking)
 ### 10_18_2020
-another similar text with list (of capitals) + dictionary iteration + puzzle solving = easy solution
+another similar text with list (of capitals) + dictionary check
 ### 10_25_2008
-medium-level trickiness for puzzle solving algorithm
+-------[TO BE WRITTEN]------------
 ### 11_08_2008
-reused **NLTK** hypernyms to get list of "animals" (otherwise similar to older puzzle solutions)
+**NLTK** hypernyms for list of animals (otherwise similar to older puzzle solutions)
 ### 11_16_2008
-copy pasted wiki page of "C authors" into excel, then copied column I wanted from excel to a text file, then preprocessed and iterated through to find answer
+(Note: the below solution is simple but I just keep the entry so I remember the process and can speed up my process next time.)
+wiki page of "C authors">--cp/pste--> excel, then copied column I wanted from excel to a text file, then preprocessed and iterated through to find answer
 ### 11_29_2008
-reused **NLTK** hypernyms to get list of "criminals" (otherwise similar to older puzzle solutions)
+**NLTK** hypernyms for list of "criminals" (otherwise similar to older puzzle solutions)

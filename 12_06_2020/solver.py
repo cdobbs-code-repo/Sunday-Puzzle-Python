@@ -1,4 +1,8 @@
 import enchant
+import time
+
+# program start time
+start_time = time.time()
 
 # instantiate dictionary
 mydict = enchant.Dict("en-US")
@@ -43,36 +47,36 @@ def is_reflective_word(word: str) -> bool:
 
 # Attempt number 2: add one pair of opp letters
 
-# for a in sym_letters:
-#     for b in sym_letters:
-#         for c in sym_letters:
-#             for d in sym_letters:
-#                 for x in opp_letters:
-#                     temp1 = x[0]+a+b+c+d+x[1]
-#                     temp2 = a+x[0]+b+c+x[1]+d
-#                     temp3 = a+b+x[0]+x[1]+c+d
-#                     if is_reflective_word(temp1):
-#                         if mydict.check(temp1):
-#                             print(temp1)
-#                     if is_reflective_word(temp2):
-#                         if mydict.check(temp2):
-#                             print(temp2)
-#                     if is_reflective_word(temp3):
-#                         if mydict.check(temp3):
-#                             print(temp3)
-# print("attempt TWO complete\n")
+for a in sym_letters:
+    for b in sym_letters:
+        for c in sym_letters:
+            for d in sym_letters:
+                for x in opp_letters:
+                    temp1 = x[0]+a+b+c+d+x[1]
+                    temp2 = a+x[0]+b+c+x[1]+d
+                    temp3 = a+b+x[0]+x[1]+c+d
+                    if is_reflective_word(temp1):
+                        if mydict.check(temp1):
+                            print(temp1)
+                    if is_reflective_word(temp2):
+                        if mydict.check(temp2):
+                            print(temp2)
+                    if is_reflective_word(temp3):
+                        if mydict.check(temp3):
+                            print(temp3)
+print("Program solve time: " + str(time.time() - start_time)[:4] + " seconds\n")
 
 # Attempt number 3: just try all letters
 
-alph = "abcdefghijklmnopqrstuvwxyz"
-for a in alph:
-    for b in alph:
-        for c in alph:
-            for d in alph:
-                for e in alph:
-                    for f in alph:
-                        temp = a+b+c+d+e+f
-                        if is_reflective_word(temp):
-                            if mydict.check(temp):
-                                print(temp)
-print("attempt THREE complete\n")
+# alph = "abcdefghijklmnopqrstuvwxyz"
+# for a in alph:
+#     for b in alph:
+#         for c in alph:
+#             for d in alph:
+#                 for e in alph:
+#                     for f in alph:
+#                         temp = a+b+c+d+e+f
+#                         if is_reflective_word(temp):
+#                             if mydict.check(temp):
+#                                 print(temp)
+# print("attempt THREE complete\n")

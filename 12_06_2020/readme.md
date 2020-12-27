@@ -1,0 +1,1 @@
+This week's challenge comes from listener Jared Harvey, of Santa Cruz, Calif. Think of a common word in six letters. Write it in lowercase. If you hold up a mirror at its side, the reflection will show the same word. What is it?
