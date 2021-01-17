@@ -1,0 +1,1 @@
+This week's challenge comes from listener David Curren of Arlington, Mass. Think of a familiar two-word phrase (5, 2). Replace the last letter with the next letter of the alphabet. The result will be a palindrome (the seven letters will read backward and forward the same). What phrase is it?
